@@ -9,4 +9,6 @@ The below image gives a brief description about the types of Filtering and Recom
 
 Here we have used the cosine similarity to find the closely related restaurants to the name entererd by the user. 
 
+You can find the dataset here - https://www.kaggle.com/datasets/absin7/zomato-bangalore-dataset
+
 ![recommendation system](https://user-images.githubusercontent.com/109875379/233446326-993e452d-a7b4-4ddc-8fbf-68a79209f7ce.png)
