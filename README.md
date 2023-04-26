@@ -1,7 +1,7 @@
 # Restaurant-Recommendation-System
 This repository gives you a deep view of the recommendation systems built and the way recommendation systems work. 
 
-The world is currently driven very heavily by data. IN this dat driven world, recommednation systems are a must to work efficiently. With hundreds of options available for any topic, it is important to have the knowledge of what other people are exploring and their reviews about it. 
+The world is currently driven very heavily by data. In this data driven world, recommednation systems are a must to work efficiently. With hundreds of options available for any topic, it is important to have the knowledge of what other people are exploring and their reviews about it. 
 
 This is where recommendation systems come into play. They help us decide our further actions based on our interests or previous likings. 
 
